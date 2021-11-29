@@ -1,2 +1,1 @@
-# tortuga_controller
-Tortuga Base Controller firmware
+tortuga_controller
